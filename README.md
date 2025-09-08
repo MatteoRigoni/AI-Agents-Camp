@@ -4,13 +4,13 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
 
 ## Indice dei contenuti
 
-- [Fondamenti di AI Agents con AutoGen](Basic_of_AI_Agents_with_AutoGen.ipynb) – Introduzione ad AutoGen: definizione di agenti, conversazioni e utilizzo di strumenti.
-- [Esempio di agente con modello locale](AI_Agent_example_with_local_model.ipynb) – Esegue un agente su un modello LLM locale usando Unsloth e Transformers.
-- [Soluzione agentica da un bisogno di business](AI_Agent_solution_from_business_pain-point.ipynb) – Progetta un flusso di tre chiamate per risolvere un pain point aziendale con API compatibile OpenAI.
-- [Agenti CrewAI per supportare i blogger](AI_Agents_with_CrewAI_to_support_bloggers.ipynb) – Crea agenti e task con CrewAI per generare articoli e aggregare informazioni dal web.
-- [Riconoscimento di entità con Hugging Face](EntityRecognition_using_HuggingFace.ipynb) – Mostra una pipeline di Named Entity Recognition e analisi dei risultati.
-- [Fine-tuning per classificazione testuale](FineTuning_Text_Classification.ipynb) – Addestra un modello Sentence Transformers e lo pubblica su Hugging Face.
-- [Primi passi con LangChain](Langchain_getting_started.ipynb) – Introduzione a LangChain, template di prompt e LangChain Expression Language.
+ - [AI Agents Basics with AutoGen](notebooks/autogen-ai-agents-basics.ipynb) – Introduzione ad AutoGen: definizione di agenti, conversazioni e utilizzo di strumenti.
+ - [Local Model Agent Example](notebooks/ai-agent-local-model-example.ipynb) – Esegue un agente su un modello LLM locale usando Unsloth e Transformers.
+ - [Agentic Solution for Business Pain Points](notebooks/ai-agent-business-solution.ipynb) – Progetta un flusso di tre chiamate per risolvere un pain point aziendale con API compatibile OpenAI.
+ - [CrewAI Agents for Blogger Support](notebooks/crewai-blogger-support.ipynb) – Crea agenti e task con CrewAI per generare articoli e aggregare informazioni dal web.
+ - [Entity Recognition with Hugging Face](notebooks/huggingface-entity-recognition.ipynb) – Mostra una pipeline di Named Entity Recognition e analisi dei risultati.
+ - [Fine-tuning for Text Classification](notebooks/text-classification-finetuning.ipynb) – Addestra un modello Sentence Transformers e lo pubblica su Hugging Face.
+ - [Getting Started with LangChain](notebooks/langchain-getting-started.ipynb) – Introduzione a LangChain, template di prompt e LangChain Expression Language.
 
 ## Prerequisiti e Avvio rapido
 
@@ -22,6 +22,8 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
 ### Installazione
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
