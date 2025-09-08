@@ -1,0 +1,11 @@
+pyautogen
+crewai
+langchain
+transformers
+sentence-transformers
+datasets
+unsloth
+accelerate
+bitsandbytes
+python-dotenv
+jupyter
