@@ -1,4 +1,14 @@
-# AI-Agent-workshop
+<p align="center">
+  <img src="assets/ai-agents-banner.svg" alt="AI Agents Camp banner" />
+</p>
+
+# AI-agents-camp
+
+[![GitHub](https://img.shields.io/badge/GitHub-AI--agents--camp-blue?style=for-the-badge&logo=github)](https://github.com/MatteoRigoni/AI-agents-camp)
+
+> **Nota**: repository precedentemente noto come `AI-Camp_LLM-Agents-Transformers`.
+
+
 
 Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
 
@@ -36,3 +46,7 @@ jupyter lab
 ```
 
 Apri quindi il notebook di interesse dalla lista sopra.
+
+## Comunicazioni
+
+Se collabori al progetto, aggiorna i link esterni, i webhook e i cloni locali al nuovo repository: https://github.com/MatteoRigoni/AI-agents-camp.
