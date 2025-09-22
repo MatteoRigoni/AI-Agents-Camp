@@ -21,6 +21,7 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
  - [Entity Recognition with Hugging Face](notebooks/huggingface-entity-recognition.ipynb) – Mostra una pipeline di Named Entity Recognition e analisi dei risultati.
  - [Fine-tuning for Text Classification](notebooks/text-classification-finetuning.ipynb) – Addestra un modello Sentence Transformers e lo pubblica su Hugging Face.
  - [Getting Started with LangChain](notebooks/langchain-getting-started.ipynb) – Introduzione a LangChain, template di prompt e LangChain Expression Language.
+ - [AI Agent Profile Chatbot](notebooks/ai-agent-profile-chatbot.ipynb) – Crea un chatbot per il profilo personale utilizzando modelli di linguaggio avanzati.
 
 ## Prerequisiti e Avvio rapido
 
@@ -33,7 +34,7 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate
+source \.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -46,7 +47,3 @@ jupyter lab
 ```
 
 Apri quindi il notebook di interesse dalla lista sopra.
-
-## Comunicazioni
-
-Se collabori al progetto, aggiorna i link esterni, i webhook e i cloni locali al nuovo repository: https://github.com/MatteoRigoni/AI-agents-camp.

@@ -1,6 +1,9 @@
 pyautogen
 crewai
 langchain
+openai
+pypdf
+gradio
 transformers
 sentence-transformers
 datasets
@@ -8,4 +11,5 @@ unsloth
 accelerate
 bitsandbytes
 python-dotenv
+os
 jupyter
