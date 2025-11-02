@@ -23,4 +23,5 @@ scikit-learn
 sentence-transformers>=3.0.1
 torch>=2.3.1
 transformers>=4.45.2
-unsloth
+# unsloth
+sendgrid>=6.10
