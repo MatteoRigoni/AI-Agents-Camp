@@ -17,6 +17,7 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
  - [AI Agents Basics with AutoGen](notebooks/autogen-ai-agents-basics.ipynb) – Introduzione ad AutoGen: definizione di agenti, conversazioni e utilizzo di strumenti.
  - [Local Model Agent Example](notebooks/ai-agent-local-model-example.ipynb) – Esegue un agente su un modello LLM locale usando Unsloth e Transformers.
  - [Agentic Solution for Business Pain Points](notebooks/ai-agent-business-solution.ipynb) – Progetta un flusso di tre chiamate per risolvere un pain point aziendale con API compatibile OpenAI.
+  - [Cold Outreach Agent](notebooks/ai-agent-cold-outreach.ipynb) – Sistema agentico in Python che genera e invia email a freddo con SendGrid, usando tool, handoff tra agenti e tracing.
  - [CrewAI Agents for Blogger Support](notebooks/crewai-blogger-support.ipynb) – Crea agenti e task con CrewAI per generare articoli e aggregare informazioni dal web.
  - [Entity Recognition with Hugging Face](notebooks/huggingface-entity-recognition.ipynb) – Mostra una pipeline di Named Entity Recognition e analisi dei risultati.
  - [Fine-tuning for Text Classification](notebooks/text-classification-finetuning.ipynb) – Addestra un modello Sentence Transformers e lo pubblica su Hugging Face.
