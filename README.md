@@ -24,6 +24,7 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
  - [Fine-tuning for Text Classification](notebooks/huggingface-text-classification-finetuning.ipynb) – Addestra un modello Sentence Transformers e lo pubblica su Hugging Face.
  - [Getting Started with LangChain](notebooks/langchain-getting-started.ipynb) – Introduzione a LangChain, template di prompt e LangChain Expression Language.
  - [AI Agent Profile Chatbot](notebooks/openai-profile-chatbot.ipynb) – Crea un chatbot per il profilo personale utilizzando modelli di linguaggio avanzati.
+ - [MCP Account Notebook](mcp/mcp_account.ingipynb) – Dimostra come esporre e consumare un server MCP per attività relative ai conti bancari. Include esempi di gestione dei conti, acquisto di azioni e generazione di report.
 
 ## Prerequisiti e Avvio rapido
 
