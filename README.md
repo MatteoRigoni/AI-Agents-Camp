@@ -25,6 +25,8 @@ Questo repository raccoglie esempi pratici su agenti e modelli di linguaggio.
  - [Getting Started with LangChain](notebooks/langchain-getting-started.ipynb) – Introduzione a LangChain, template di prompt e LangChain Expression Language.
  - [AI Agent Profile Chatbot](notebooks/openai-profile-chatbot.ipynb) – Crea un chatbot per il profilo personale utilizzando modelli di linguaggio avanzati.
  - [MCP Account Notebook](mcp/mcp_account.ingipynb) – Dimostra come esporre e consumare un server MCP per attività relative ai conti bancari. Include esempi di gestione dei conti, acquisto di azioni e generazione di report.
+ - [MCP Memorizer Notebook](mcp/mcp_memorizer.ipynb) – Dimostra la gestione della memoria e le interazioni avanzate con il server MCP per agenti AI.
+ - [MCP Trading Simulator Notebook](mcp/mcp_trading_simulator.ipynb) – Simula il trading di azioni con più trader e un ricercatore, sfruttando i server MCP per strumenti e risorse.
 
 ## Prerequisiti e Avvio rapido
 
